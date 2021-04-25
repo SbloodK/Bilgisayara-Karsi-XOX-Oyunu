@@ -1,1 +1,1 @@
-# Bilgisayara-Karşı-XOX-oyunu
+# Bilgisayara Karşı XOX Oyunu
