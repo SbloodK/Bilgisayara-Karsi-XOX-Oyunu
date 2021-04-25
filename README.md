@@ -1,1 +1,1 @@
-# Bilgisayara-Kar-XOX-oyunu
+# Bilgisayara-Karşı-XOX-oyunu
